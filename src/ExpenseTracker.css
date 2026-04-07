@@ -510,9 +510,9 @@
 /*  mobile */
 @media (max-width: 600px) {
   .page {
-    padding: 20px 16px 100px; /* extra bottom padding for FAB */
+    padding: 20px 16px 100px; 
   }
-  /* hide desktop button, show FAB instead */
+  /* hide desktop button, show button instead */
   .add-btn--desktop { 
     display: none; 
   }

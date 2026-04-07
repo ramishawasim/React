@@ -311,7 +311,7 @@ export default function ExpenseTracker() {
         </div>
       )}
 
-      {/* Mobile FAB */}
+      {/* Mobile button */}
       <button className="fab" onClick={openForm} aria-label="Add expense">+</button>
 
       {/* Mobile bottom sheet */}
